@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<user id="1">
+    <name>Phuc</name>
+    <age>18</age>
+    <phone>039207839</phone>
+    <roles method="a">
+        <roles>SinhVien</roles>
+        <roles>Caption</roles>
+    </roles>
+</user>
